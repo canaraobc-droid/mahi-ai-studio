@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MahiAI Studio</string>
+    <string name="title_activity_main">MahiAI Studio</string>
+    <string name="package_name">com.mahi.ai</string>
+    <string name="custom_url_scheme">com.mahi.ai</string>
+</resources>
